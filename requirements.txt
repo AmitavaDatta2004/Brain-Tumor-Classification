@@ -3,4 +3,5 @@ numpy
 matplotlib
 opencv-python
 seaborn
+tensorflow
 ipykernel
