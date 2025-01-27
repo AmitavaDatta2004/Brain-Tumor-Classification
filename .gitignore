@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 
-.h5
+model.h5
 # Distribution / packaging
 .Python
 build/
