@@ -8,6 +8,10 @@ __pycache__/
 
 
 model.h5
+vgg19_model_01.weights.h5
+vgg19_model_02.weights.h5
+vgg19_unfrozen.weights.h5
+
 # Distribution / packaging
 .Python
 build/
